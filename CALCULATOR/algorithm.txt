@@ -1,0 +1,9 @@
+1  I will create my html page and create a form 
+2  Inside the form i will create a input of text and give it the id of "input"
+3  After that i will create buttons for the numbers and the operators  and give them the value of their symbol
+4  after that i will style them
+5    then the button that contain the "=" i will give it
+    
+   JAVASCRIPT LOGIC
+6  I will call the number and id and set the value inside the output-innerhtml
+7  then create a function for each operators  then  add the current value together

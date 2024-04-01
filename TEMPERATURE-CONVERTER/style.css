@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(224, 219, 219);
+    
+}
+
+form{
+    background-color: white;
+    margin: 0px auto;
+    max-width: 400px;
+    height:300px ;
+    margin-top: 30px;
+    text-align: center;
+    line-height: 2rem;
+    border-radius: 10px;
+    box-shadow: 0px 5px 17px hsl(0, 0%, 40%);
+}
+.temp{
+    color:dodgerblue;
+   font-size: 30px;
+   font-weight: bold;
+
+}
+.box{
+    width:200px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+  
+}
+button{
+    background-color: red;
+    color:white;
+    padding:7px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    margin-top: 20px;
+    border: none;
+    border-radius: 5px;
+}
+p{
+    font-size: 30px;
+    font-weight: bolder;
+}
