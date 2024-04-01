@@ -4,7 +4,8 @@ body{
     margin: 0;
 
 }
-form{
+form
+~{
     margin:0px auto;
     text-align: center;
     width: 300px;
